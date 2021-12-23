@@ -16,7 +16,7 @@ You are more than welcome to contribute by suggesting changes to make the list m
 
 | Paper Title | Venue | Link | Bib | 
 | ---- | ---- | ---- | ---- |
-|Latent Attention For If-Then Program Synthesis|NIPS 2016|[arxiv ](https://proceedings.neurips.cc/paper/2016/hash/716e1b8c6cd17b771da77391355749f3-Abstract.html)|[link](hhttps://dblp.uni-trier.de/rec/journals/corr/ChenLSSC16.bib?param=1) |
+|Latent Attention For If-Then Program Synthesis|NIPS 2016|[arxiv ](https://proceedings.neurips.cc/paper/2016/hash/716e1b8c6cd17b771da77391355749f3-Abstract.html)|[link](https://dblp.uni-trier.de/rec/journals/corr/ChenLSSC16.bib?param=1) |
 |DeepCoder: Learning to Write Programs|ICLR 2017|[link](https://arxiv.org/abs/1611.01989)|[link] |
 |Neuro-Symbolic Program Synthesis|ICLR 2017|[link](https://openreview.net/forum?id=rJ0JwFcex)| |
 |RobustFill: Neural Program Learning under Noisy I/O|ICML|2017|[link](https://arxiv.org/abs/1703.07469)| |
