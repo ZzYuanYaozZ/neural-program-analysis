@@ -39,8 +39,8 @@ You are more than welcome to contribute by suggesting changes to make the list m
 |Latent Programmer: Discrete Latent Codes for Program Synthesis|ICML'21|[arxiv](https://arxiv.org/abs/2012.00377)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-00377.bib?param=1)|
 |Leveraging Language to Learn Program Abstractions and Search Heuristics|ICML'21|[arxiv](https://arxiv.org/abs/2106.11053)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2106-11053.bib?param=1)|
 |A large-scale benchmark for few-shot program induction and synthesis|ICML'21|[ICML](http://proceedings.mlr.press/v139/alet21a/alet21a.pdf)|[link](https://dblp.uni-trier.de/rec/conf/icml/AletLKNSLKT21.bib?param=1) |
-|Latent Execution for Neural Program Synthesis Beyond Domain-Specific Languages|arXiv2021|[arxiv](https://arxiv.org/abs/2107.00101)|[Null](https://arxiv.org/abs/2107.00101) |
-|Learning to Combine Per-Example Solutions for Neural Program Synthesis|arXiv2021|[arxiv](https://arxiv.org/abs/2106.07175)|[Null](https://arxiv.org/abs/2106.07175) |
+|Latent Execution for Neural Program Synthesis Beyond Domain-Specific Languages|NIPS'21|[arxiv](https://arxiv.org/abs/2107.00101)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2107-00101.bib?param=1) |
+|Learning to Combine Per-Example Solutions for Neural Program Synthesis|NIPS'21|[arxiv](https://arxiv.org/abs/2106.07175)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2106-07175.bib?param=1) |
 |Evaluating Large Language Models Trained on Code|arXiv2021|[arxiv](https://arxiv.org/abs/2107.03374)|[Null](https://arxiv.org/abs/2107.03374) |
 |Program Synthesis with Large Language Models|arXiv2021|[arxiv](https://arxiv.org/abs/2108.07732)|[Null](https://arxiv.org/abs/2108.07732)|
 
