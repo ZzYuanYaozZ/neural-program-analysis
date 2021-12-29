@@ -24,7 +24,7 @@ You are more than welcome to contribute by suggesting changes to make the list m
 |Accelerating Search-Based Program Synthesis using Learned Probabilistic Models|PLDI'18|[ACM](https://dl.acm.org/doi/10.1145/3296979.3192410)|[link](https://dblp.org/rec/conf/pldi/LeeHAN18.bib?param=1)|
 |Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis|ICLR'18|[arxiv](https://arxiv.org/abs/1805.04276)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-1805-04276.bib?param=1)|
 |Towards Synthesizing Complex Programs from Input-Output Examples|ICLR'18|[arxiv](https://arxiv.org/abs/1706.01284)|[link](https://dblp.uni-trier.de/rec/journals/corr/ChenLS17a.bib?param=1)|
-|Neural Sketch Learning for Conditional Program Generation|ICLR'18|[arxiv](https://arxiv.org/abs/1703.05698)|[link](https://dblp.uni-trier.de/rec/journals/corr/MuraliCJ17a.bib?param=1)|
+|Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples|ICLR'18|[arxiv](https://arxiv.org/abs/1804.01186)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-1804-01186.bib?param=1)|
 |Improving Neural Program Synthesis with Inferred Execution Traces|NIPS‘18|[ACM](https://dl.acm.org/doi/abs/10.5555/3327546.3327568)|[link](https://dblp.uni-trier.de/rec/conf/nips/ShinPS18.bib?param=1)|
 |Automatic Program Synthesis of Long Programs with a Learned Garbage Collector|NIPS'18|[arxiv](https://arxiv.org/abs/1809.04682)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-1809-04682.bib?param=1) |
 |Recent Advances in Neural Program Synthesis|arXiv18|[arxiv](https://arxiv.org/abs/1802.02353)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-1802-02353.bib?param=1)|
