@@ -44,6 +44,7 @@ You are more than welcome to contribute by suggesting changes to make the list m
 |A large-scale benchmark for few-shot program induction and synthesis|ICML'21|[ICML](http://proceedings.mlr.press/v139/alet21a/alet21a.pdf)|[link](https://dblp.uni-trier.de/rec/conf/icml/AletLKNSLKT21.bib?param=1) |
 |Latent Execution for Neural Program Synthesis Beyond Domain-Specific Languages|NIPS'21|[arxiv](https://arxiv.org/abs/2107.00101)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2107-00101.bib?param=1) |
 |Learning to Combine Per-Example Solutions for Neural Program Synthesis|NIPS'21|[arxiv](https://arxiv.org/abs/2106.07175)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2106-07175.bib?param=1) |
+|Combining the top-down propagation and bottom-up enumeration for inductive program synthesis|NIPS'21|[ACM](https://dl.acm.org/doi/10.1145/3434335)|[link](https://dblp.org/rec/journals/pacmpl/Lee21.bib?param=1) |
 |Evaluating Large Language Models Trained on Code|arXiv2021|[arxiv](https://arxiv.org/abs/2107.03374)|[Null](https://arxiv.org/abs/2107.03374) |
 |Program Synthesis with Large Language Models|arXiv2021|[arxiv](https://arxiv.org/abs/2108.07732)|[Null](https://arxiv.org/abs/2108.07732)|
 
