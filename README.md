@@ -17,6 +17,8 @@ You are more than welcome to contribute by suggesting changes to make the list m
 | Paper Title | Venue | Link | Bib | 
 | ---- | ---- | ---- | ---- |
 |Latent Attention For If-Then Program Synthesis|NIPS'16|[arxiv](https://proceedings.neurips.cc/paper/2016/hash/716e1b8c6cd17b771da77391355749f3-Abstract.html)|[link](https://dblp.uni-trier.de/rec/journals/corr/ChenLSSC16.bib?param=1) |
+
+|Scaling Enumerative Program Synthesis via Divide and Conquer|TACAS'17|[Microsoft](https://www.microsoft.com/en-us/research/publication/scaling-enumerative-program-synthesis-via-divide-and-conquer/#:~:text=Scaling%20Enumerative%20Program%20Synthesis%20via%20Divide%20and%20Conquer,-Rajeev%20Alur&text=It%20performs%20well%20on%20small,size%20of%20the%20smallest%20solution.)|[link](https://www.microsoft.com/en-us/research/publication/scaling-enumerative-program-synthesis-via-divide-and-conquer/bibtex/) |
 |DeepCoder: Learning to Write Programs|ICLR'17|[arxiv](https://arxiv.org/abs/1611.01989)|[link](https://dblp.uni-trier.de/rec/journals/corr/BalogGBNT16.bib?param=1) |
 |Neuro-Symbolic Program Synthesis|ICLR'17|[arxiv](https://arxiv.org/abs/1611.01855)|[link](https://dblp.uni-trier.de/rec/journals/corr/ParisottoMSLZK16.bib?param=1)|
 |RobustFill: Neural Program Learning under Noisy I/O|ICML'17|[arxiv](https://arxiv.org/abs/1703.07469)|[link](https://dblp.uni-trier.de/rec/journals/corr/DevlinUBSMK17.bib?param=1)|
