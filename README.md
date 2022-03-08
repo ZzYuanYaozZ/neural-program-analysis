@@ -62,4 +62,6 @@ You are more than welcome to contribute by suggesting changes to make the list m
 | ---- | ---- | ---- | ---- |
 |Learning to Execute|arxiv|[arxiv](https://arxiv.org/abs/1410.4615)|[link](https://dblp.uni-trier.de/rec/journals/corr/ZarembaS14.bib?param=1) |
 |Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks|NIPS‘20|[arxiv](https://arxiv.org/abs/2010.12621)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2010-12621.bib?param=1) |
+|Neural Execution of Graph Algorithms|ICLR‘20|[arxiv](https://arxiv.org/abs/1910.10593)|[link](https://dblp.org/rec/conf/iclr/VelickovicYPHB20.bib?param=1) |
 |Neural Execution Engines: Learning to Execute Subroutines|NIPS‘20|[arxiv](https://arxiv.org/abs/2006.08084)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2006-08084.bib?param=1) |
+
