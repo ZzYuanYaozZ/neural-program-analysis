@@ -11,6 +11,7 @@ You are more than welcome to contribute by suggesting changes to make the list m
 ## Content
 - [Neural Program Synthesis](#synthesis)
 - [Neural Program Repair](#repair)
+- [Neural Program Execution](#execution)
 
 ## <a name="synthesis"></a>Neural Program Synthesis
 
@@ -55,3 +56,10 @@ You are more than welcome to contribute by suggesting changes to make the list m
 
 | Paper Title | Venue | Link | Bib |
 | ---- | ---- | ---- | ---- |
+
+## <a name="execution"></a>Neural Program Execution
+| Paper Title | Venue | Link | Bib |
+| ---- | ---- | ---- | ---- |
+|Learning to Execute|arxiv|[arxiv](https://arxiv.org/abs/1410.4615)|[link](https://dblp.uni-trier.de/rec/journals/corr/ZarembaS14.bib?param=1) |
+|Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks|arxiv|[arxiv](https://arxiv.org/abs/2010.12621)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2010-12621.bib?param=1) |
+|Neural Execution Engines: Learning to Execute Subroutines|arxiv|[arxiv](https://arxiv.org/abs/2006.08084)|[link](https://dblp.uni-trier.de/rec/journals/corr/abs-2006-08084.bib?param=1) |
