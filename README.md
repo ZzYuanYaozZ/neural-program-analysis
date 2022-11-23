@@ -56,6 +56,11 @@ You are more than welcome to contribute by suggesting changes to make the list m
 
 | Paper Title | Venue | Link | Bib |
 | ---- | ---- | ---- | ---- |
+| SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair | TSE'19 | [arxiv](https://arxiv.org/pdf/1901.01808.pdf) | [link](https://scholar.googleusercontent.com/scholar.bib?q=info:j5mrv7lokNYJ:scholar.google.com/&output=citation&scisdr=CgXCmM4gEMaLgvwQQTw:AAGBfm0AAAAAY34WWTywPS5kfRYAjXR1ONFnC5Dskfi3&scisig=AAGBfm0AAAAAY34WWY2ESWiec--B5bYw1Y8T2N7_tLBq&scisf=4&ct=citation&cd=-1&hl=en) |
+| CoCoNuT: Combining context-aware neural translation models using ensemble for program repair | ISSTA'20 | [github](https://hvpham.github.io/files/CoCoNuT-issta20.pdf) | [link](https://dblp.uni-trier.de/rec/conf/issta/LutellierPPLW020.bib?param=1) |
+| Hoppity: Learning graph transformations to detect and fix bugs in programs | ICLR'20 | [OpenReview](https://openreview.net/pdf?id=SJeqs6EFvB) | [link](https://dblp.uni-trier.de/rec/conf/iclr/DinellaDLNSW20.bib?param=1) |
+| A Syntax-Guided Edit Decoder for Neural Program Repair | ESEC/FSE'21 | [arxiv](https://arxiv.org/abs/2106.08253) | [link](https://dblp.uni-trier.de/rec/conf/sigsoft/ZhuSXZY0Z21.bib?param=1) |
+| PLUR: A Unifying, Graph-Based View of Program Learning, Understanding, and Repair | NeurIPS'21 | [neurips](https://proceedings.neurips.cc/paper/2021/file/c2937f3a1b3a177d2408574da0245a19-Paper.pdf) | [link](https://dblp.uni-trier.de/rec/conf/nips/ChenHLMMTM21.bib?param=1) |
 
 ## <a name="execution"></a>Neural Program Execution
 | Paper Title | Venue | Link | Bib |
